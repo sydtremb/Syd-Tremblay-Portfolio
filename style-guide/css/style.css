@@ -1,8 +1,44 @@
 @charset "UTF-8";
-h1 {
-	font-family: 
-}
 
 .bodycopy {
-	align: left; 
+	text-align: right; 
+}
+
+h2,h3 {font-family: 'Margin', sans-serif;}
+
+.colourpalette {
+	display: flex;
+}
+
+.text {
+	margin-left: 20px;
+}
+
+.red {
+	width: 600px;
+	height: 100px;
+	background-color:#A4485E;
+	color: white;
+	
+}
+
+.orange {
+	width: 300px;
+	height: 100px;
+	background-color:#F9AB6A ;
+	color: white; 
+	
+}
+
+.deepblue {
+	width: 100px;
+	height: 100px;
+	background-color:#406B8C;
+	color: white;
+}
+
+.copy {
+	text-align: center;
+	display: flex;
+	
 }
