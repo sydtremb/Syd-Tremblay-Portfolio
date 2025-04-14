@@ -1,9 +1,9 @@
 title: Syd Tremblay Portfolio
 name: Syd Tremblay
 email: w0840253@myscc.ca
-baseulr: "/Syd-Tremblay-Portfolio/"
+baseulr: "/Syd-Tremblay-Portfolio"
 
 collections:
-designs:
-output: true
-permalink: /:collection/:path/
+  design:
+    output: true
+    permalink: /:collection/:path/
