@@ -1,27 +1,10 @@
 @charset "UTF-8";
 
-.fullpage {
-align-content: center;
+.bodycopy {
+	text-align: right; 
 }
 
-.parentelement {
-	 display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center; 
-}
-
-
-.textpt1 {
-	margin-right: 20px;
-	margin-left: 20px;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" ;
-}
-
-.textpt2 {
-	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
-}
-
+h2,h3 {font-family: 'Margin', sans-serif;}
 
 .colourpalette {
 	display: flex;
@@ -54,5 +37,8 @@ align-content: center;
 	color: white;
 }
 
-
+.copy {
+	text-align: center;
+	display: flex;
 	
+}
