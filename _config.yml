@@ -6,4 +6,4 @@ baseulr: "/Syd-Tremblay-Portfolio/"
 collections:
 designs:
 output: true
-permalink: /collection/:path/
+permalink: /:collection/:path/
